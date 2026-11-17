@@ -2,8 +2,6 @@
 
 Repositório organizado com os códigos, exemplos e exercícios da disciplina **Desenvolvimento Rápido de Aplicações em Python**, além de projetos e práticas complementares desenvolvidas fora de aula.
 
-> Baseado no repositório original do professor: [KauaRios/DEV_RAPIDO_PYTHON](https://github.com/KauaRios/DEV_RAPIDO_PYTHON). Os arquivos originais foram reorganizados em pastas padronizadas, formatados seguindo as convenções da PEP 8 e documentados com `README.md` individuais para facilitar o estudo e a navegação.
-
 ## Estrutura do Repositório
 
 ```text
